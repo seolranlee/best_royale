@@ -1,0 +1,70 @@
+/* Webfont:  */
+
+@font-face {
+  font-family: 'COC-Display-Bold';
+  src: url('../font/SC_COC_DisplayBold.eot');
+  src: url('../font/SC_COC_DisplayBold.eot?#iefix') format('embedded-opentype'),
+  url('../font/SC_COC_DisplayBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'COC-Display-Light';
+  src: url('../font/SC_COC_DisplayLight.eot');
+  src: url('../font/SC_COC_DisplayLight.eot?#iefix') format('embedded-opentype'),
+  url('../font/SC_COC_DisplayLight.woff') format('woff'),
+  url('../font/SC_COC_DisplayLight.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansKR-Thin';
+  src: url('../font/NotoSansKR-Thin.woff'),
+  url('../font/NotoSansKR-Thin.woff2') format('woff2'),
+  url('../font/NotoSansKR-Thin.woff') format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansKR-Light';
+  src: url('../font/NotoSansKR-Light.woff'),
+  url('../font/NotoSansKR-Light.woff2') format('woff2'),
+  url('../font/NotoSansKR-Light.woff') format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansKR-Regular';
+  src: url('../font/NotoSansKR-Regular.woff'),
+  url('../font/NotoSansKR-Regular.woff2') format('woff2'),
+  url('../font/NotoSansKR-Regular.woff') format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansKR-Medium';
+  src: url('../font/NotoSansKR-Medium.woff'),
+  url('../font/NotoSansKR-Medium.woff2') format('woff2'),
+  url('../font/NotoSansKR-Medium.woff') format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSansKR-Bold';
+  src: url('../font/NotoSansKR-Bold.woff'),
+  url('../font/NotoSansKR-Bold.woff2') format('woff2'),
+  url('../font/NotoSansKR-Bold.woff') format('woff');
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'NotoSansKR-Black';
+  src: url('../font/NotoSansKR-Black.woff'),
+  url('../font/NotoSansKR-Black.woff2') format('woff2'),
+  url('../font/NotoSansKR-Black.woff') format('woff');
+  font-style: normal;
+}
+

@@ -1,0 +1,16 @@
+@import "reset.css";
+@import '../assets/css/webfonts.css';
+@import "page_common";
+@import "page_easer";
+@import "page_mixin";
+
+@import "ds_core/globalvars/variables/fonts";
+@import "ds_core/utils/mixins/font/font_family";
+@import "ds_core/utils/mixins/font/font_style";
+@import "ds_core/utils/mixins/font/line_height";
+
+@import "ds_core/globalvars/variables/common";
+@import "ds_core/utils/functions/del_unit";
+@import "ds_core/globalvars/variables/breakpoint";
+@import "ds_core/utils/mixins/etc/media_queries";
+@import "ds_core/utils/mixins/etc/vw_conversion";
